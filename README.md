@@ -1,2 +1,2 @@
-# stepic_python-selenium
+# stepik_python/selenium
 course_tests
